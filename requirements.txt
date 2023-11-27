@@ -1,0 +1,6 @@
+ipykernel
+numpy
+matplotlib
+urllib3
+torch
+torchvision
