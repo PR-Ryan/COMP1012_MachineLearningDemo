@@ -1,4 +1,4 @@
-## This is the repo for machine learning demo for COMP1012 2023Fall at PolyU
+## This is the repository for the machine learning demonstration for COMP1012, Fall 2023, at PolyU.
 
 
 # Environment Preparation
