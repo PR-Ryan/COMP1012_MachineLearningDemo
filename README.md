@@ -3,7 +3,7 @@
 
 # Environment Preparation
 
-Follow these steps to set up your environment using `python3-venv`:
+Follow these steps to set up your environment:
 
 1. **Option 1: Using `python3-venv`:**
 
