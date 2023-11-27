@@ -16,7 +16,7 @@ Follow these steps to set up your environment using `python3-venv`:
    ```
 
 
-2. **Option 2: Using anaconda:**
+2. **Option 2: Using `anaconda`:**
 
     ```bash
     conda env create -f environment.yml
